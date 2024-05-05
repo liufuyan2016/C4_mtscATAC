@@ -1,0 +1,124 @@
+P2_2	T cells	0.00919326847852476	Aged_spleen
+P2_2	DC	0.0084339369055167	Aged_spleen
+P2_2	Neutrophils	0.00819889262677447	Aged_spleen
+P2_2	Eosinophils	0.00817380377199319	Aged_spleen
+P2_2	NK T	0.0075976626618936	Aged_spleen
+P2_2	Erythroblast	0.011190617620638	Aged_spleen
+P2_2	T cells	0.00848047793260656	Aged_spleen
+P2_2	pDC	0.00863383099564212	Aged_spleen
+P2_2	Monocytes	0.0101572484791448	Aged_spleen
+P2_2	Plasma cells	0.00893580279806634	Aged_spleen
+P2_2	B cells	0.00921979174781188	Aged_spleen
+P2_1	Plasma cells	0.00878732011927742	Aged_spleen
+P2_1	Monocytes	0.00710652559795005	Aged_spleen
+P2_1	B cells	0.00906673785442628	Aged_spleen
+P2_1	Erythroblast	0.00960879575346027	Aged_spleen
+P2_1	T cells	0.00740960735329842	Aged_spleen
+P2_1	pDC	0.00838196474368693	Aged_spleen
+P2_1	NK T	0.00583205295709477	Aged_spleen
+P2_1	Eosinophils	0.00735691676946111	Aged_spleen
+P2_1	Neutrophils	0.00987318601369169	Aged_spleen
+P2_1	DC	0.00688216594734933	Aged_spleen
+P2_1	T cells	0.00869466324410925	Aged_spleen
+P1_2	Neutrophils	0.00967828944665364	Aged_spleen
+P1_2	Eosinophils	0.00922683659909695	Aged_spleen
+P1_2	T cells	0.00990148425504144	Aged_spleen
+P1_2	DC	0.00591985105282917	Aged_spleen
+P1_2	NK T	0.00892436058413604	Aged_spleen
+P1_2	Erythroblast	0.0093761401039196	Aged_spleen
+P1_2	pDC	0.00950301880164753	Aged_spleen
+P1_2	T cells	0.0102862433306771	Aged_spleen
+P1_2	Monocytes	0.0080264096363432	Aged_spleen
+P1_2	Plasma cells	0.015094256377282	Aged_spleen
+P1_2	B cells	0.00910602718669716	Aged_spleen
+P1_1	DC	0.0109874454673103	Aged_spleen
+P1_1	T cells	0.0140372221144229	Aged_spleen
+P1_1	Eosinophils	0.0139021604542082	Aged_spleen
+P1_1	Neutrophils	0.0114831273529249	Aged_spleen
+P1_1	NK T	0.0201632253443818	Aged_spleen
+P1_1	T cells	0.0149811703498105	Aged_spleen
+P1_1	pDC	0.0124116437488312	Aged_spleen
+P1_1	Erythroblast	0.0132118599128974	Aged_spleen
+P1_1	B cells	0.0148240189978797	Aged_spleen
+P1_1	Monocytes	0.0125297893972619	Aged_spleen
+P1_1	Plasma cells	0.0206681391518314	Aged_spleen
+Y_P4	Neutrophils	0.00464574764087156	Young_spleen
+Y_P4	T cells	0.00552396342303294	Young_spleen
+Y_P4	Erythroblast	0.0050056134541621	Young_spleen
+Y_P4	NK T	0.00497497575025735	Young_spleen
+Y_P4	T cells	0.00501035000955791	Young_spleen
+Y_P4	Monocytes	0.00591114807196598	Young_spleen
+Y_P4	Eosinophils	0.00725203011139851	Young_spleen
+Y_P4	DC	0.00433854475676998	Young_spleen
+Y_P4	Plasma cells	0.00386024568523756	Young_spleen
+Y_P4	pDC	0.00547678886250583	Young_spleen
+Y_P4	B cells	0.00426553829662289	Young_spleen
+Y_P3	T cells	0.00431180609989496	Young_spleen
+Y_P3	Monocytes	0.00495287384474223	Young_spleen
+Y_P3	Neutrophils	0.00494919341694182	Young_spleen
+Y_P3	T cells	0.00475759151726904	Young_spleen
+Y_P3	NK T	0.00460503210734803	Young_spleen
+Y_P3	Erythroblast	0.0037451858447268	Young_spleen
+Y_P3	Plasma cells	0.00594886197466755	Young_spleen
+Y_P3	DC	0.00322416029793312	Young_spleen
+Y_P3	pDC	0.00464819445579962	Young_spleen
+Y_P3	B cells	0.0041846972277025	Young_spleen
+Y_P3	Eosinophils	0.00574563999175602	Young_spleen
+Y_P1	NK T	0.00359006920310572	Young_spleen
+Y_P1	Erythroblast	0.00528474738800161	Young_spleen
+Y_P1	T cells	0.00347128867891604	Young_spleen
+Y_P1	Neutrophils	0.0025862213922326	Young_spleen
+Y_P1	Monocytes	0.00218897133534888	Young_spleen
+Y_P1	T cells	0.00365012549167856	Young_spleen
+Y_P1	Eosinophils	0.0033338953200732	Young_spleen
+Y_P1	B cells	0.00350238278670468	Young_spleen
+Y_P1	pDC	0.00299966736840109	Young_spleen
+Y_P1	DC	0.00337939016954414	Young_spleen
+Y_P1	Plasma cells	0.00375303030543328	Young_spleen
+Y_P2	T cells	0.00381528738966517	Young_spleen
+Y_P2	Neutrophils	0.0042061850291941	Young_spleen
+Y_P2	Erythroblast	0.00453702785296525	Young_spleen
+Y_P2	NK T	0.00374310198688785	Young_spleen
+Y_P2	Monocytes	0.00237826351489071	Young_spleen
+Y_P2	T cells	0.0037677293489177	Young_spleen
+Y_P2	Eosinophils	0.00164020637177067	Young_spleen
+Y_P2	pDC	0.0026234949479133	Young_spleen
+Y_P2	Plasma cells	0.00300113968546652	Young_spleen
+Y_P2	DC	0.00307180694920498	Young_spleen
+Y_P2	B cells	0.00368511911629633	Young_spleen
+GS2_2	Neutrophils	0.00619753187280783	Aged_bone_marrow
+GS2_2	Eosinophils	0.00596693390906918	Aged_bone_marrow
+GS2_2	Erythroblast	0.00760864841818164	Aged_bone_marrow
+GS2_2	stem cell	0.010290993296413	Aged_bone_marrow
+GS2_2	T cells	0.00673566087282654	Aged_bone_marrow
+GS2_2	Monocytes	0.00737908673593251	Aged_bone_marrow
+GS2_2	DC	0.00700783818052413	Aged_bone_marrow
+GS2_2	B cells	0.00777529088706048	Aged_bone_marrow
+GS2_2	Basophils	0.0074011359379573	Aged_bone_marrow
+GS2_1	Basophils	0.00796942915182837	Aged_bone_marrow
+GS2_1	B cells	0.00801322776070674	Aged_bone_marrow
+GS2_1	DC	0.00862258076556987	Aged_bone_marrow
+GS2_1	Monocytes	0.00756136198494589	Aged_bone_marrow
+GS2_1	stem cell	0.0106789828370705	Aged_bone_marrow
+GS2_1	T cells	0.00959610102653419	Aged_bone_marrow
+GS2_1	Erythroblast	0.00979599646629553	Aged_bone_marrow
+GS2_1	Eosinophils	0.0057940753636823	Aged_bone_marrow
+GS2_1	Neutrophils	0.0075702817677875	Aged_bone_marrow
+GS1_1	Neutrophils	0.00632201490220038	Aged_bone_marrow
+GS1_1	T cells	0.00842557537840783	Aged_bone_marrow
+GS1_1	stem cell	0.00994836332231215	Aged_bone_marrow
+GS1_1	Erythroblast	0.00815462233908487	Aged_bone_marrow
+GS1_1	Eosinophils	0.00617686916068305	Aged_bone_marrow
+GS1_1	DC	0.00740445295218973	Aged_bone_marrow
+GS1_1	Monocytes	0.00829358331419317	Aged_bone_marrow
+GS1_1	Basophils	0.00777091621005131	Aged_bone_marrow
+GS1_1	B cells	0.00744973572094735	Aged_bone_marrow
+GS1_2	DC	0.00979594355389216	Aged_bone_marrow
+GS1_2	Monocytes	0.00851810561885019	Aged_bone_marrow
+GS1_2	Basophils	0.00615416987502845	Aged_bone_marrow
+GS1_2	B cells	0.00826114843822699	Aged_bone_marrow
+GS1_2	Neutrophils	0.00733908183071123	Aged_bone_marrow
+GS1_2	Erythroblast	0.00884689184069952	Aged_bone_marrow
+GS1_2	stem cell	0.00944292767931387	Aged_bone_marrow
+GS1_2	T cells	0.00903203858333206	Aged_bone_marrow
+GS1_2	Eosinophils	0.00809263854246288	Aged_bone_marrow

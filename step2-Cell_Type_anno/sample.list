@@ -1,0 +1,9 @@
+BG	LibID	tissue	stage	fullName
+mouse	P1_1	P	Old	OldP3
+mouse	P1_2	P	Old	OldP4
+mouse	P2_1	P	Old	OldP1
+mouse	P2_2	P	Old	OldP2
+mouse	Y_P1	P	Young	YoungP1
+mouse	Y_P2	P	Young	YoungP2
+mouse   Y_P3    P      Young    YoungP3
+mouse   Y_P4    P      Young    YoungP4
